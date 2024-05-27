@@ -6,3 +6,11 @@ h1{
     text-align: center;
     color: whitesmoke;
 }
+img{
+    width: 99%;
+}
+.title{
+    border: 2px solid wheat;
+    text-align: center;
+    color: white;
+}
